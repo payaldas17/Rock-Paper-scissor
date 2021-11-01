@@ -32,7 +32,7 @@ scissors = '''
 game_images = [rock, paper, scissors]
 
 end_of_game = False
-
+print("\n\n")
 while not end_of_game:
 
     print("\n\nWelcome to Rock Paper Scissors Game ...\n")
